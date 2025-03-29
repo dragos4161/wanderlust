@@ -41,3 +41,19 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Flutter build files
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+
+# macOS/iOS generated files
+macos/
+ios/Pods/
+ios/.symlinks/
+
+# Firebase keys (if added)
+*.keys.json
+
